@@ -17,6 +17,7 @@ This repository contains my solutions to Codeforces problems solved in Java.
 | 71A | Way Too Long Words | ✅ Accepted |
 | 231A | Team | ✅ Accepted |
 | 282A | Bit++ | ✅ Accepted |
+| 158A | Next Round | ✅ Accepted |
 
 ---
 
