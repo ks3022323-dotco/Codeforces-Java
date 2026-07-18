@@ -19,6 +19,7 @@ This repository contains my solutions to Codeforces problems solved in Java.
 | 282A | Bit++ | [Code](282A_Bit_Plus_Plus/Main.java) | ✅ Accepted |
 | 158A | Next Round | [Code](158A_Next_Round/Main.java) | ✅ Accepted |
 | 50A | Domino Piling | [Code](50A_Domino_Piling/Main.java) | ✅ Accepted |
+| 263A | Beautiful Matrix | [Code](263A_Beautiful_Matrix/Main.java) | ✅ Accepted |
 
 
 
