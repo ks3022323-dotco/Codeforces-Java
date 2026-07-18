@@ -11,13 +11,16 @@ This repository contains my solutions to Codeforces problems solved in Java.
 
 ## ✅ Solved Problems
 
-| Problem No. | Problem Name | Status |
-|-------------|--------------|--------|
-| 4A | Watermelon | ✅ Accepted |
-| 71A | Way Too Long Words | ✅ Accepted |
-| 231A | Team | ✅ Accepted |
-| 282A | Bit++ | ✅ Accepted |
-| 158A | Next Round | ✅ Accepted |
+| Problem No. | Problem Name | Solution | Status |
+|-------------|--------------|----------|--------|
+| 4A | Watermelon | [Code](4A_Watermelon/Main.java) | ✅ Accepted |
+| 71A | Way Too Long Words | [Code](71A_Way_Too_Long_Words/Main.java) | ✅ Accepted |
+| 231A | Team | [Code](231A_Team/Main.java) | ✅ Accepted |
+| 282A | Bit++ | [Code](282A_Bit_Plus_Plus/Main.java) | ✅ Accepted |
+| 158A | Next Round | [Code](158A_Next_Round/Main.java) | ✅ Accepted |
+| 50A | Domino Piling | [Code](50A_Domino_Piling/Main.java) | ✅ Accepted |
+
+
 
 ---
 
