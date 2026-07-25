@@ -21,6 +21,7 @@ This repository contains my solutions to Codeforces problems solved in Java.
 | 50A | Domino Piling | [Code](50A_Domino_Piling/Main.java) | ✅ Accepted |
 | 263A | Beautiful Matrix | [Code](263A_Beautiful_Matrix/Main.java) | ✅ Accepted |
 | 1A | Theatre Square | [Code](1A_Theatre_Square/Main.java) | ✅ Accepted |
+| 112A | Petya and Strings | [Code](112A_Petya_and_Strings/Main.java) | ✅ Accepted |
 
 
 
