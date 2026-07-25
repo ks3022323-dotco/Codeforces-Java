@@ -23,6 +23,7 @@ This repository contains my solutions to Codeforces problems solved in Java.
 | 1A | Theatre Square | [Code](1A_Theatre_Square/Main.java) | ✅ Accepted |
 | 112A | Petya and Strings | [Code](112A_Petya_and_Strings/Main.java) | ✅ Accepted |
 | 236A | Boy or Girl | [Code](236A_Boy_or_Girl/Main.java) | ✅ Accepted |
+| 339A | Helpful Maths | [Code](339A_Helpful_Maths/Main.java) | ✅ Accepted |
 
 
 
