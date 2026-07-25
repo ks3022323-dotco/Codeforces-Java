@@ -26,6 +26,7 @@ This repository contains my solutions to Codeforces problems solved in Java.
 | 339A | Helpful Maths | [Code](339A_Helpful_Maths/Main.java) | ✅ Accepted |
 | 281A | Word Capitalization | [Code](281A_Word_Capitalization/Main.java) | ✅ Accepted |
 | 791A | Bear and Big Brother | [Code](791A_Bear_and_Big_Brother/Main.java) | ✅ Accepted |
+| 617A | Elephant | [Code](617A_Elephant/Main.java) | ✅ Accepted |
 
 
 
