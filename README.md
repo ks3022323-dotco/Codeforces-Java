@@ -27,7 +27,7 @@ This repository contains my solutions to Codeforces problems solved in Java.
 | 281A | Word Capitalization | [Code](281A_Word_Capitalization/Main.java) | ✅ Accepted |
 | 791A | Bear and Big Brother | [Code](791A_Bear_and_Big_Brother/Main.java) | ✅ Accepted |
 | 617A | Elephant | [Code](617A_Elephant/Main.java) | ✅ Accepted |
-
+| 266A | Stones on the Table | [Code](266A_Stones_on_the_Table/Main.java) | ✅ Accepted |
 
 
 ---
