@@ -31,6 +31,7 @@ This repository contains my solutions to Codeforces problems solved in Java.
 | 546A | Soldier and Bananas | [Code](546A_Soldier_and_Bananas/Main.java) | ✅ Accepted |
 | 118A | String Task | [Code](118A_String_Task/Main.java) | ✅ Accepted |
 | 96A | Football | [Code](96A_Football/Main.java) | ✅ Accepted |
+| 69A | Young Physicist | [Code](69A_Young_Physicist/Main.java) | ✅ Accepted |
 
 
 ---
