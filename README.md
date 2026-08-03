@@ -33,6 +33,7 @@ This repository contains my solutions to Codeforces problems solved in Java.
 | 96A | Football | [Code](96A_Football/Main.java) | ✅ Accepted |
 | 69A | Young Physicist | [Code](69A_Young_Physicist/Main.java) | ✅ Accepted |
 | 58A | Chat Room | [Code](58A_Chat_Room/Main.java) | ✅ Accepted |
+| 122A | Lucky Division | [Code](122A_Lucky_Division/Main.java) | ✅ Accepted |
 
 
 ---
