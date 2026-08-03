@@ -34,6 +34,7 @@ This repository contains my solutions to Codeforces problems solved in Java.
 | 69A | Young Physicist | [Code](69A_Young_Physicist/Main.java) | ✅ Accepted |
 | 58A | Chat Room | [Code](58A_Chat_Room/Main.java) | ✅ Accepted |
 | 122A | Lucky Division | [Code](122A_Lucky_Division/Main.java) | ✅ Accepted |
+| 977A | Wrong Subtraction | [Code](977A_Wrong_Subtraction/Main.java) | ✅ Accepted |
 
 
 ---
