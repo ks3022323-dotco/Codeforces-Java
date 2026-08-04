@@ -35,6 +35,7 @@ This repository contains my solutions to Codeforces problems solved in Java.
 | 58A | Chat Room | [Code](58A_Chat_Room/Main.java) | ✅ Accepted |
 | 122A | Lucky Division | [Code](122A_Lucky_Division/Main.java) | ✅ Accepted |
 | 977A | Wrong Subtraction | [Code](977A_Wrong_Subtraction/Main.java) | ✅ Accepted |
+| 59A | Word | [Code](59A_Word/Main.java) | ✅ Accepted |
 
 
 ---
