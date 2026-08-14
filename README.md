@@ -37,6 +37,7 @@ This repository contains my solutions to Codeforces problems solved in Java.
 | 977A | Wrong Subtraction | [Code](977A_Wrong_Subtraction/Main.java) | ✅ Accepted |
 | 59A | Word | [Code](59A_Word/Main.java) | ✅ Accepted |
 | 2256A | Three Numbers on the Blackboard | [Code](2256A_Three_Numbers_on_the_Blackboard/Main.java) | ✅ Accepted |
+| 2254A | Riptide | [Code](2254A_Riptide/Main.java) | ✅ Accepted |
 
 
 
