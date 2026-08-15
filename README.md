@@ -41,6 +41,7 @@ This repository contains my solutions to Codeforces problems solved in Java.
 | 2254B | Evanescent | [Code](2254B_Evanescent/Main.java) | ✅ Accepted |
 | 2253C | Sum of Distinct Values in a Matrix | [Code](2253C_Sum_of_Distinct_Values_in_a_Matrix/Main.java) | ✅ Accepted |
 | 2256B | Domino Tiles | [Code](2256B_Domino_Tiles/Main.java) | ✅ Accepted |
+| 2255B | Ribbon for Tomorrow | [Code](2255B_Ribbon_for_Tomorrow/Main.java) | ✅ Accepted |
 
 
 
