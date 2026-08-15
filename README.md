@@ -47,6 +47,7 @@ This repository contains my solutions to Codeforces problems solved in Java.
 | 2247A | Zero Sum | [Code](Zero_Sum/Main.java) | ✅ Accepted |
 | 2254E | Chronostasis | [Code](2254E_Chronostasis/Main.java) | ✅ Accepted |
 | 2240A | Another Popcount Problem | [Code](2240A_Another_Popcount_Problem/Main.java) | ✅ Accepted |
+| 2246A | farmpiggie and Subset Sum | [Code](2246A_Farmpiggie_and_Subset_Sum/Main.java) | ✅ Accepted |
 
 
 
