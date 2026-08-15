@@ -43,6 +43,7 @@ This repository contains my solutions to Codeforces problems solved in Java.
 | 2256B | Domino Tiles | [Code](2256B_Domino_Tiles/Main.java) | ✅ Accepted |
 | 2255B | Ribbon for Tomorrow | [Code](2255B_Ribbon_for_Tomorrow/Main.java) | ✅ Accepted |
 | 2254D | Silhouette | [Code](D_Silhouette/Main.java) | ✅ Accepted |
+| 2254C2 | Marenol (Hard Version) | [Code](2254C2_Marenol_Hard_Version/Main.java) | ✅ Accepted |
 
 
 
