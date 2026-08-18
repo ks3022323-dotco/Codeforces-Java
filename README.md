@@ -50,6 +50,7 @@ This repository contains my solutions to Codeforces problems solved in Java.
 | 2246A | farmpiggie and Subset Sum | [Code](2246A_Farmpiggie_and_Subset_Sum/Main.java) | ✅ Accepted |
 | 2254C1 | Marenol (Easy Version) | [Code](2254C1_Marenol_Easy/Main.java) | ✅ Accepted |
 | 2253A | The Best Card | [Code](2253A_The_Best_Card/Main.java) | ✅ Accepted |
+| 2252A | Boss Fight | [Code](2252A_Boss_Fight/Main.java) | ✅ Accepted |
 
 
 
