@@ -52,6 +52,7 @@ This repository contains my solutions to Codeforces problems solved in Java.
 | 2253A | The Best Card | [Code](2253A_The_Best_Card/Main.java) | ✅ Accepted |
 | 2252A | Boss Fight | [Code](2252A_Boss_Fight/Main.java) | ✅ Accepted |
 | 2252D | Array Replacement | [Code](2252D_Array_Replacement/Main.java) | ✅ Accepted |
+| 2252B | Yet Another Constructive | [Code](2252B_Yet_Another_Constructive/Main.java) | ✅ Accepted |
 
 
 
