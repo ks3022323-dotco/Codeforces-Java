@@ -54,6 +54,7 @@ This repository contains my solutions to Codeforces problems solved in Java.
 | 2252D | Array Replacement | [Code](2252D_Array_Replacement/Main.java) | ✅ Accepted |
 | 2252B | Yet Another Constructive | [Code](2252B_Yet_Another_Constructive/Main.java) | ✅ Accepted |
 | 2248E | Excuse for Breaks | [Code](2248E_Excuse_for_Breaks/Main.java) | ✅ Accepted |
+| 2250A | Threshold Movement | [Code](2250A_Threshold_Movement/Main.java) | ✅ Accepted |
 
 
 
