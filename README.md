@@ -57,6 +57,7 @@ This repository contains my solutions to Codeforces problems solved in Java.
 | 2250A | Threshold Movement | [Code](2250A_Threshold_Movement/Main.java) | ✅ Accepted |
 | 2252B | Always Changing | [Code](2252B_Always_Changing/Main.java) | ✅ Accepted |
 | 2252C | Risky Tower | [Code](2252C_Risky_Tower/Main.java) | ✅ Accepted |
+| 510A | Fox And Snake | [Code](510A_Fox_And_Snake/Main.java) | ✅ Accepted |
 
 
 
