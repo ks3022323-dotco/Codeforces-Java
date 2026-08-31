@@ -62,6 +62,7 @@ This repository contains my solutions to Codeforces problems solved in Java.
 | 2249A | Rank Subsequence | [Code](2249A_Rank_Subsequence/Main.java) | ✅ Accepted |
 | 2255D | How Long Until Nothing Remains? | [Code](2255D_How_Long_Until_Nothing_Remains/Main.java) | ✅ Accepted |
 | 2253B | Hypercarp and the Control Panel | [Code](2253B_Hypercarp_and_the_Control_Panel/Main.java) | ✅ Accepted |
+| 2248F | Matrix Elimination | [Code](2248F_Matrix_Elimination/Main.java) | ✅ Accepted |
 
 
 
