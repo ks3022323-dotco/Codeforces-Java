@@ -63,6 +63,7 @@ This repository contains my solutions to Codeforces problems solved in Java.
 | 2255D | How Long Until Nothing Remains? | [Code](2255D_How_Long_Until_Nothing_Remains/Main.java) | ✅ Accepted |
 | 2253B | Hypercarp and the Control Panel | [Code](2253B_Hypercarp_and_the_Control_Panel/Main.java) | ✅ Accepted |
 | 2248F | Matrix Elimination | [Code](2248F_Matrix_Elimination/Main.java) | ✅ Accepted |
+| 2245C | MEXOR | [Code](2245C_MEXOR/Main.java) | ✅ Accepted |
 
 
 
