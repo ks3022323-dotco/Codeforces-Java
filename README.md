@@ -65,6 +65,7 @@ This repository contains my solutions to Codeforces problems solved in Java.
 | 2248F | Matrix Elimination | [Code](2248F_Matrix_Elimination/Main.java) | ✅ Accepted |
 | 2245C | MEXOR | [Code](2245C_MEXOR/Main.java) | ✅ Accepted |
 | 2249C | Double-Rift Dial | [Code](2249C_Double_Rift_Dial/Main.java) | ✅ Accepted |
+| 2257E | Busy Beaver | [Code](2257E_Busy_Beaver/Main.java) | ✅ Accepted |
 
 
 
