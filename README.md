@@ -68,6 +68,7 @@ This repository contains my solutions to Codeforces problems solved in Java.
 | 2257E | Busy Beaver | [Code](2257E_Busy_Beaver/Main.java) | ✅ Accepted |
 | 2252F | Spectral Components | [Code](2252F_Spectral_Components/Main.java) | ✅ Accepted |
 | 2252E | Generational Triplets | [Code](2252E_Generational_Triplets/Main.java) | ✅ Accepted |
+| 2246B | ezraft and Array | [Code](2246B_ezraft_and_Array/Main.java) | ✅ Accepted |
 
 
 
