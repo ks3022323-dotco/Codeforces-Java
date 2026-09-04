@@ -67,6 +67,8 @@ This repository contains my solutions to Codeforces problems solved in Java.
 | 2249C | Double-Rift Dial | [Code](2249C_Double_Rift_Dial/Main.java) | ✅ Accepted |
 | 2257E | Busy Beaver | [Code](2257E_Busy_Beaver/Main.java) | ✅ Accepted |
 | 2252F | Spectral Components | [Code](2252F_Spectral_Components/Main.java) | ✅ Accepted |
+| 2252E | Generational Triplets | [Code](2252E_Generational_Triplets/Main.java) | ✅ Accepted |
+
 
 
 
