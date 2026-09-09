@@ -130,6 +130,7 @@ This repository contains my solutions to Codeforces problems solved in Java.
 | 2259C | 101 | [Code](2259C_101/Main.java) |  Accepted |
 | 2259B | Minus Two | [Code](2259B_Minus_Two/Main.java) |  Accepted |
 | 2259A | Moo Language School | [Code](2259A_Moo_Language_School/Main.java) |  Accepted |
+| 2245F | Familiar? | [Code](2245F_Familiar/Main.java) |  Accepted |
 
 
 
