@@ -70,6 +70,68 @@ This repository contains my solutions to Codeforces problems solved in Java.
 | 2252F | Spectral Components | [Code](2252F_Spectral_Components/Main.java) | Accepted |
 | 2252E | Generational Triplets | [Code](2252E_Generational_Triplets/Main.java) | Accepted |
 | 2246B | ezraft and Array | [Code](2246B_ezraft_and_Array/Main.java) | Accepted |
+| 4A | Watermelon | [Code](4A_Watermelon/Main.java) | ✅ Accepted |
+| 71A | Way Too Long Words | [Code](71A_Way_Too_Long_Words/Main.java) | ✅ Accepted |
+| 231A | Team | [Code](231A_Team/Main.java) | ✅ Accepted |
+| 282A | Bit++ | [Code](282A_Bit_Plus_Plus/Main.java) | ✅ Accepted |
+| 158A | Next Round | [Code](158A_Next_Round/Main.java) | ✅ Accepted |
+| 50A | Domino Piling | [Code](50A_Domino_Piling/Main.java) | ✅ Accepted |
+| 263A | Beautiful Matrix | [Code](263A_Beautiful_Matrix/Main.java) | ✅ Accepted |
+| 1A | Theatre Square | [Code](1A_Theatre_Square/Main.java) | ✅ Accepted |
+| 112A | Petya and Strings | [Code](112A_Petya_and_Strings/Main.java) | ✅ Accepted |
+| 236A | Boy or Girl | [Code](236A_Boy_or_Girl/Main.java) | ✅ Accepted |
+| 339A | Helpful Maths | [Code](339A_Helpful_Maths/Main.java) | ✅ Accepted |
+| 281A | Word Capitalization | [Code](281A_Word_Capitalization/Main.java) | ✅ Accepted |
+| 791A | Bear and Big Brother | [Code](791A_Bear_and_Big_Brother/Main.java) | ✅ Accepted |
+| 617A | Elephant | [Code](617A_Elephant/Main.java) | ✅ Accepted |
+| 266A | Stones on the Table | [Code](266A_Stones_on_the_Table/Main.java) | ✅ Accepted |
+| 546A | Soldier and Bananas | [Code](546A_Soldier_and_Bananas/Main.java) | ✅ Accepted |
+| 118A | String Task | [Code](118A_String_Task/Main.java) | ✅ Accepted |
+| 96A | Football | [Code](96A_Football/Main.java) | ✅ Accepted |
+| 69A | Young Physicist | [Code](69A_Young_Physicist/Main.java) | ✅ Accepted |
+| 58A | Chat Room | [Code](58A_Chat_Room/Main.java) | ✅ Accepted |
+| 122A | Lucky Division | [Code](122A_Lucky_Division/Main.java) | ✅ Accepted |
+| 977A | Wrong Subtraction | [Code](977A_Wrong_Subtraction/Main.java) | ✅ Accepted |
+| 59A | Word | [Code](59A_Word/Main.java) | ✅ Accepted |
+| 2256A | Three Numbers on the Blackboard | [Code](2256A_Three_Numbers_on_the_Blackboard/Main.java) | ✅ Accepted |
+| 2254A | Riptide | [Code](2254A_Riptide/Main.java) | ✅ Accepted |
+| 2254B | Evanescent | [Code](2254B_Evanescent/Main.java) | ✅ Accepted |
+| 2253C | Sum of Distinct Values in a Matrix | [Code](2253C_Sum_of_Distinct_Values_in_a_Matrix/Main.java) | ✅ Accepted |
+| 2256B | Domino Tiles | [Code](2256B_Domino_Tiles/Main.java) | ✅ Accepted |
+| 2255B | Ribbon for Tomorrow | [Code](2255B_Ribbon_for_Tomorrow/Main.java) | ✅ Accepted |
+| 2254D | Silhouette | [Code](D_Silhouette/Main.java) | ✅ Accepted |
+| 2254C2 | Marenol (Hard Version) | [Code](2254C2_Marenol_Hard_Version/Main.java) | ✅ Accepted |
+| 2247A | Zero Sum | [Code](Zero_Sum/Main.java) | ✅ Accepted |
+| 2254E | Chronostasis | [Code](2254E_Chronostasis/Main.java) | ✅ Accepted |
+| 2240A | Another Popcount Problem | [Code](2240A_Another_Popcount_Problem/Main.java) | ✅ Accepted |
+| 2246A | farmpiggie and Subset Sum | [Code](2246A_Farmpiggie_and_Subset_Sum/Main.java) | ✅ Accepted |
+| 2254C1 | Marenol (Easy Version) | [Code](2254C1_Marenol_Easy/Main.java) | ✅ Accepted |
+| 2253A | The Best Card | [Code](2253A_The_Best_Card/Main.java) | ✅ Accepted |
+| 2252A | Boss Fight | [Code](2252A_Boss_Fight/Main.java) | ✅ Accepted |
+| 2252D | Array Replacement | [Code](2252D_Array_Replacement/Main.java) | ✅ Accepted |
+| 2252B | Yet Another Constructive | [Code](2252B_Yet_Another_Constructive/Main.java) | ✅ Accepted |
+| 2248E | Excuse for Breaks | [Code](2248E_Excuse_for_Breaks/Main.java) | ✅ Accepted |
+| 2250A | Threshold Movement | [Code](2250A_Threshold_Movement/Main.java) | ✅ Accepted |
+| 2252B | Always Changing | [Code](2252B_Always_Changing/Main.java) | ✅ Accepted |
+| 2252C | Risky Tower | [Code](2252C_Risky_Tower/Main.java) | ✅ Accepted |
+| 510A | Fox And Snake | [Code](510A_Fox_And_Snake/Main.java) | ✅ Accepted |
+| 2257A | Creating Abbreviations | [Code](2257A_Creating_Abbreviations/Main.java) | ✅ Accepted |
+| 2249A | Rank Subsequence | [Code](2249A_Rank_Subsequence/Main.java) | ✅ Accepted |
+| 2255D | How Long Until Nothing Remains? | [Code](2255D_How_Long_Until_Nothing_Remains/Main.java) | ✅ Accepted |
+| 2253B | Hypercarp and the Control Panel | [Code](2253B_Hypercarp_and_the_Control_Panel/Main.java) | ✅ Accepted |
+| 2248F | Matrix Elimination | [Code](2248F_Matrix_Elimination/Main.java) | ✅ Accepted |
+| 2245C | MEXOR | [Code](2245C_MEXOR/Main.java) | ✅ Accepted |
+| 2249C | Double-Rift Dial | [Code](2249C_Double_Rift_Dial/Main.java) | ✅ Accepted |
+| 2257E | Busy Beaver | [Code](2257E_Busy_Beaver/Main.java) | ✅ Accepted |
+| 2252F | Spectral Components | [Code](2252F_Spectral_Components/Main.java) | ✅ Accepted |
+| 2252E | Generational Triplets | [Code](2252E_Generational_Triplets/Main.java) | ✅ Accepted |
+| 2246B | ezraft and Array | [Code](2246B_ezraft_and_Array/Main.java) | ✅ Accepted |
+| 2257C | Spying on the Beaver | [Code](2257C_Spying_on_the_Beaver/Main.java) |  Accepted |
+
+
+
+
+
 
 ---
 
