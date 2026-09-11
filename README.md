@@ -135,6 +135,8 @@ This repository contains my solutions to Codeforces problems solved in Java.
 | 734A | Anton and Danik | [Code](734A_Anton_and_Danik/Main.java) |  Accepted |
 | 41A | Translation | [Code](41A_Translation/Main.java) |  Accepted |
 | 41A | Translation | [Code](41A_Translation/Main.java) |  Accepted |
+| 677A | Vanya and Fence | [Code](677A_Vanya_and_Fence/Main.java) | Accepted |
+
 
 
 
