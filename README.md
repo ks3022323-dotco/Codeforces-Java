@@ -134,6 +134,7 @@ This repository contains my solutions to Codeforces problems solved in Java.
 | 110A | Nearly Lucky Number | [Code](110A_Nearly_Lucky_Number/Main.java) |  Accepted |
 | 734A | Anton and Danik | [Code](734A_Anton_and_Danik/Main.java) |  Accepted |
 | 41A | Translation | [Code](41A_Translation/Main.java) |  Accepted |
+| 41A | Translation | [Code](41A_Translation/Main.java) |  Accepted |
 
 
 
