@@ -136,6 +136,7 @@ This repository contains my solutions to Codeforces problems solved in Java.
 | 41A | Translation | [Code](41A_Translation/Main.java) |  Accepted |
 | 41A | Translation | [Code](41A_Translation/Main.java) |  Accepted |
 | 677A | Vanya and Fence | [Code](677A_Vanya_and_Fence/Main.java) | Accepted |
+| 271A | Beautiful Year | [Code](271A_Beautiful_Year/Main.java) |  Accepted |
 
 
 
