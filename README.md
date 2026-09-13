@@ -138,6 +138,7 @@ This repository contains my solutions to Codeforces problems solved in Java.
 | 677A | Vanya and Fence | [Code](677A_Vanya_and_Fence/Main.java) | Accepted |
 | 271A | Beautiful Year | [Code](271A_Beautiful_Year/Main.java) |  Accepted |
 | 116A | Tram | [Code](116A_Tram/Main.java) | Accepted |
+| 266B | Queue at the School | [Code](266B_Queue_at_the_School/Main.java) |  Accepted |
 
 
 
