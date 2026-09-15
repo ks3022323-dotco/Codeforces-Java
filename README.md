@@ -141,6 +141,7 @@ This repository contains my solutions to Codeforces problems solved in Java.
 | 266B | Queue at the School | [Code](266B_Queue_at_the_School/Main.java) |  Accepted |
 | 1030A | In Search of an Easy Problem | [Code](1030A_In_Search_of_an_Easy_Problem/Main.java) |  Accepted |
 | 486A | Calculating Function | [Code](486A_Calculating_Function/Main.java) | Accepted |
+| 200B | Drinks | [Code](200B_Drinks/Main.java) | Accepted |
 
 
 
