@@ -142,7 +142,7 @@ This repository contains my solutions to Codeforces problems solved in Java.
 | 1030A | In Search of an Easy Problem | [Code](1030A_In_Search_of_an_Easy_Problem/Main.java) |  Accepted |
 | 486A | Calculating Function | [Code](486A_Calculating_Function/Main.java) | Accepted |
 | 200B | Drinks | [Code](200B_Drinks/Main.java) | Accepted |
-
+| 520A | Pangram | [Code](520A_Pangram/Main.java) |  Accepted |
 
 
 
